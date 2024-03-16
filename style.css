@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+}
+.text-danger{
+    color: maroon !important;
+}
+.text-success{
+    color: chartreuse !important;
+}
+.h1{
+    font-style: italic;
+    font-size: 50px;
+}
